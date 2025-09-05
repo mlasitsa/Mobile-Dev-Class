@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unit1_CurrencyConvert_Kotlin</string>
+    <string name="currency_converter">Kotlin Currency Converter</string>
+    <string name="dollars">Dollars</string>
+</resources>
